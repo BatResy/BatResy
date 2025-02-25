@@ -22,7 +22,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Into aircraft design, aerodynamics, and flight systems
 - Huge fan of **fighter jets**
 
- ![Cool GIF](https://i.gifer.com/8LJY.gif)
+ ![Cool GIF](https://tenor.com/bETvd.gif)
 
 🐧 **Linux & Tech:**  
 - Daily driver: **Arch Linux**  
