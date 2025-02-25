@@ -5,7 +5,10 @@
  **what I do:**  
 - make games that never see the light of day
 - do dumb stuff
-- learning **Aerospace Engineering**  
+- learning **Aerospace Engineering**
+
+  ![Cool GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
 
  **hobbies:**  
 - Game dev & coding   
