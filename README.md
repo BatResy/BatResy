@@ -20,8 +20,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 ✈ **Aerospace Stuff:**  
 - Studying to become an **Aerospace Engineer**  
 - Into aircraft design, aerodynamics, and flight systems
--![Cool GIF](https://i.gifer.com/8LJY.gif)
-- Huge fan of **fighter jets** 
+- Huge fan of **fighter jets** ![Cool GIF](https://i.gifer.com/8LJY.gif)
  
 
 🐧 **Linux & Tech:**  
