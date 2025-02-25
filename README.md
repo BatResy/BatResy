@@ -16,4 +16,4 @@
  **where to find me ( mostly ):**  
 ill put my socials here later :\
 
-🚧 **Work in Progress...** More cool projects coming soon! 🚀  
+ **Work in Progress...** More cool stuff soon ( never )
