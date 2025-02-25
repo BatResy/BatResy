@@ -19,8 +19,9 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 
 ✈ **Aerospace Stuff:**  
 - Studying to become an **Aerospace Engineer**  
-- Into aircraft design, aerodynamics, and flight systems  
-- Huge fan of **fighter jets** ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJib3MyNTFvemdpajg0empjOTFneTRld2hoODRtdWFxb3A2bjAyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G65U0Ifs2Fums/giphy.gif)
+- Into aircraft design, aerodynamics, and flight systems
+- ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJib3MyNTFvemdpajg0empjOTFneTRld2hoODRtdWFxb3A2bjAyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G65U0Ifs2Fums/giphy.gif)
+- Huge fan of **fighter jets** 
  
 
 🐧 **Linux & Tech:**  
