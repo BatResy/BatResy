@@ -25,8 +25,8 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 
 🐧 **Linux & Tech:**  
 - Daily driver: **Arch Linux**  
-- Enjoy customizing my setup and messing with configs  
-- Terminal >>> GUI  
+- i have 0 idea what im doing :D
+- Terminal <<< GUI  
 
 ---
 
@@ -40,7 +40,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 ---
 
 ## Contact  
-- **Discord:** (Your Username)  
+- **Discord:** i forgot  
 - **GitHub:** Well, you're already here  
 - **Other:** Still figuring that out  
 
