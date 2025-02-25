@@ -22,7 +22,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Into aircraft design, aerodynamics, and flight systems
 - Huge fan of **fighter jets**
 
-(https://media.gifdb.com/mcdonnell-douglas-f-15-eagle-jet-zp5tv7p17pi7karm.gif)
+![cool gif](https://media.gifdb.com/mcdonnell-douglas-f-15-eagle-jet-zp5tv7p17pi7karm.gif)
 
 
 
