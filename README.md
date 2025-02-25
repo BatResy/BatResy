@@ -22,8 +22,9 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Into aircraft design, aerodynamics, and flight systems
 - Huge fan of **fighter jets**
 
- ![Cool GIF](![z31yxts3hvy81](https://github.com/user-attachments/assets/d8a78f70-44a4-4943-85dc-e82d116693b0)
-)
+![Cool GIF](https://media.gifdb.com/mcdonnell-douglas-f-15-eagle-jet-zp5tv7p17pi7karm.gif)
+
+
 
 🐧 **Linux & Tech:**  
 - Daily driver: **Arch Linux**  
