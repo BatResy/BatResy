@@ -7,7 +7,7 @@
 - do dumb stuff
 - learning **Aerospace Engineering**
 
-  ![Cool GIF](https://tenor.com/view/a10-gif-22494042)
+  ![Cool GIF](https://tenor.com/bGxTi.gif)
 
 
  **hobbies:**  
