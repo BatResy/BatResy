@@ -37,7 +37,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - **Languages:** C#, Python, and some JavaScript  
 - **Game Engine:** Unity (mostly)  
 - **Networking:** Mirror for multiplayer  
-- **OS:** Arch Linux (btw)  
+- **OS:** Arch Linux, Windows  
 - **Other Interests:** Engineering, problem-solving, automation  
 
 ---
