@@ -18,7 +18,6 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Always optimizing, tweaking, and breaking things  
 
 ✈ **Aerospace Stuff:**  
-- Studying to become an **Aerospace Engineer**  
 - Into aircraft design, aerodynamics, and flight systems
 - Huge fan of **fighter jets**
 - i love CAS :D
