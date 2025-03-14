@@ -33,7 +33,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 ---
 
 ## Tools & Tech I Use  
-- **Languages:** C#, Python, and some JavaScript  
+- **Languages:** C#, Python, and some JavaScript ( and a tad bit of html and css 
 - **Game Engine:** Unity (mostly)  
 - **Networking:** Mirror for multiplayer  
 - **OS:** Arch Linux, Windows  
