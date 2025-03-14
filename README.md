@@ -21,6 +21,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Studying to become an **Aerospace Engineer**  
 - Into aircraft design, aerodynamics, and flight systems
 - Huge fan of **fighter jets**
+- i love CAS :D
 
 ![cool gif](https://github.com/BatResy/BatResy/blob/main/screenshot.png)
 
