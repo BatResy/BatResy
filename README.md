@@ -42,7 +42,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 --- ![cool gif](https://github.com/BatResy/BatResy/blob/main/sres.png)
 
 ## Contact  
-- **Discord:** i forgot  
+- **Discord:** elliooottzzzz 
 - **GitHub:** Well, you're already here  
 - **Other:** Still figuring that out  
 
