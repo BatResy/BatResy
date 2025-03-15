@@ -22,7 +22,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - Huge fan of **fighter jets**
 - i love CAS :D
 
-![cool gif](https://github.com/BatResy/BatResy/blob/main/sres.png)
+
 
 
 
@@ -39,7 +39,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 - **OS:** Arch Linux, Windows  
 - **Other Interests:** Engineering, problem-solving, automation  
 
----
+--- ![cool gif](https://github.com/BatResy/BatResy/blob/main/sres.png)
 
 ## Contact  
 - **Discord:** i forgot  
