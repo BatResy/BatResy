@@ -28,7 +28,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 
 🐧 **Linux & Tech:**  
 - Daily driver: **Arch Linux**  
-- i have 0 idea what im doing :D
+- Arch + Hyprland is heavenly
 
 ---
 
