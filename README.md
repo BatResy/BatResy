@@ -7,7 +7,7 @@
 ## About Me  
 I'm really into **game development** and **aerospace engineering**.  
 
-I also run **Linux (Arch, btw)** because I like having control over my system. 
+i use arch btw 
 
 ---
 
@@ -26,7 +26,7 @@ I also run **Linux (Arch, btw)** because I like having control over my system.
 
 
 
-🐧 **Linux & Tech:**  
+ **more stuff:**  
 - Daily driver: **Arch Linux**  
 - Arch + Hyprland is heavenly
 
