@@ -5,7 +5,7 @@
  OS Dev ( sorta? )
  Python,C#,C++`
 
-
+<pre> ```python def hello(): print("What's up, GitHub?") ``` </pre>
 
 ## Contact  
 - **Discord:** elliooottzzzz 
