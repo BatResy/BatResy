@@ -1,17 +1,23 @@
-# Hey, I'm Bat 🦇  
+## 🦇 About Me
+
+Heyo! I'm Bat — just a dev tryna make cool stuff in Unity and break the laws of physics for fun.
+Professinal Nerd 🤓 | Insomnia-powered coder 🌙 | Game dev by day (and night… mostly night)
+
+### 🛠️ What I Do
+- 🎮 Making games in **Unity** (currently making: *SCP: Facility Havoc*)
+- ⚙️ Studying to be a **aerospace engineer** for the future
+- 🧠 Forgetting what sleep is (relatable, right? RIGHT?)
+
+### 💾 Tech I'm Using
+```csharp
+using UnityEngine;
+public class Me : Developer
+{
+    void Start() => Debug.Log("Let's make something cool.");
+}
+```
 
 
-`Future Aerospace Engineer
- OS Dev ( sorta? )
- Python,C#,C++`
 
-<pre> ```python def hello(): print("What's up, GitHub?") ``` </pre>
-
-## Contact  
-- **Discord:** elliooottzzzz 
-- **GitHub:** Well, you're already here  
-- **Other:** Still figuring that out  
-
----
 
 _(This README is a WIP, just like my projects.)_  
