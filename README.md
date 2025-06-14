@@ -8,7 +8,7 @@ Professinal Nerd 🤓 | Insomnia-powered coder 🌙 | Game dev by day (and night
 - ⚙️ Studying to be a **aerospace engineer** for the future
 - 🧠 Forgetting what sleep is (relatable, right? RIGHT?)
 
-### 💾 Tech I'm Using
+### 💾 idk what else to add...
 ```csharp
 using UnityEngine;
 public class Me : Developer
