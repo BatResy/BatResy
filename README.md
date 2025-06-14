@@ -13,7 +13,7 @@ Professinal Nerd 🤓 | Insomnia-powered coder 🌙 | Game dev by day (and night
 using UnityEngine;
 public class Me : Developer
 {
-    void Start() => Debug.Log("Let's make something cool.");
+    void Start() => Debug.Log(".-.. --- --- -.- / -... . .... .. -. -.. / -.-- --- ..- .-.-.- .-.-.- .-.-.-");
 }
 ```
 
