@@ -26,6 +26,18 @@ also i have a unhealty addiction to SCP things✌️
 - Thinks a tank would make a great car  
 - Probably has more unfinished projects than finished ones (don’t judge)
 
-ok thats all for now bye ig🙂
+
+
+      __           __                        
+     /\ \         /\ \                       
+  ___\ \ \/'\     \ \ \____  __  __     __   
+ / __`\ \ , <      \ \ '__`\/\ \/\ \  /'__`\ 
+/\ \L\ \ \ \\`\     \ \ \L\ \ \ \_\ \/\  __/ 
+\ \____/\ \_\ \_\    \ \_,__/\/`____ \ \____\
+ \/___/  \/_/\/_/     \/___/  `/___/> \/____/
+                                 /\___/      
+                                 \/__/       
+
+
 ---
 
