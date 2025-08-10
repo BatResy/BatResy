@@ -22,22 +22,12 @@ also i have a unhealty addiction to SCP things✌️
 ---
 
 ## ⚡ Fun Facts
-- Can name more fighter jets than state capitals  
-- Thinks a tank would make a great car  
-- Probably has more unfinished projects than finished ones (don’t judge)
+- can name more fighter jets than state capitals 
+- thinks a tank would make a great car  
+- has more unfinished projects than finished ones (don’t judge)
 
 
 
-      __           __                        
-     /\ \         /\ \                       
-  ___\ \ \/'\     \ \ \____  __  __     __   
- / __`\ \ , <      \ \ '__`\/\ \/\ \  /'__`\ 
-/\ \L\ \ \ \\`\     \ \ \L\ \ \ \_\ \/\  __/ 
-\ \____/\ \_\ \_\    \ \_,__/\/`____ \ \____\
- \/___/  \/_/\/_/     \/___/  `/___/> \/____/
-                                 /\___/      
-                                 \/__/       
-
-
+ok thats all for now bye ig 🙂✌️
 ---
 
