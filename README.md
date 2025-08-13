@@ -15,6 +15,7 @@ also i have a unhealty addiction to SCP things✌️
 ---
 
 ## 📚 Currently Learning
+- 🐍 **Python** (bc its cool :D )
 - 🖥 **C** ( for os things and whatever i might make a ARM Kernel soon )
 - ⚙️ **C++** ( just bc )
 - 🦀 **Rust** (because memory safety is cool)
