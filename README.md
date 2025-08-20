@@ -31,7 +31,7 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 - Custom Systems, Lore, and uh...Cool Stuff™  
 
 **Inspired By:**  
-- *SCP: Secret Laboratory (kinda, barely)*  
+- *SCP: Secret Laboratory (kinda, barely. like 2%)*  
 - *Late night YouTube dives + my brain at 4am on a weekend*   
 
 **Alpha Goal:**  
@@ -43,10 +43,10 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 ---
 
 ## 📚 Currently Learning
-- 🐍 **Python** – ez mode scripting fr  ( i already learned this but not by heart yet )
+- 🐍 **Python** – ez scripting ( i already learned this but not by heart yet )
 - 🖥️ **C** – for OS/dev stuff (ARM kernel cooking soon)  
 - ⚙️ **C++** – because why not suffer 💔  
-- 🦀 **Rust** – memory-safe and hot af  
+- 🦀 **Rust** – memory-safe and cool  
 
 ---
 
