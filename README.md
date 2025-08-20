@@ -4,7 +4,7 @@
 
 **Hey, I’m Bat** —  
 An indie Unity dev, code nerd, and long-time enjoyer of all things aviation, tanks, and tech.  
-Also dangerously obsessed with SCP stuff (send help but also don’t)   
+Also dangerously obsessed with SCP stuff (send help)   
 
 ---
 
