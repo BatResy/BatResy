@@ -26,7 +26,7 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 
 **Built With:**
-- Unity (HDRP)  
+- Unity (~~HDRP~~ switched back to URP)  
 - Mirror for Networking  
 - Custom Systems, Lore, and uh...Cool Stuff™  
 
